@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zhaouniswap/precache-manifest.29511db466a84c2ceb6abd26a9e3d22d.js"
+  "/zhaouniswap/precache-manifest.3e4f9994caac070ab483b2b8ceb8e0a4.js"
 );
 
 self.addEventListener('message', (event) => {
